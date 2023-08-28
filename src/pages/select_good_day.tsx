@@ -1,7 +1,7 @@
-import { HomePage } from "@/modules/HomePage";
+import { SelectGoodDay } from "@/modules/SelectGoodDay";
 import { GetStaticPropsContext } from "next";
 
-export default HomePage;
+export default SelectGoodDay;
 
 export const getStaticProps = async (ctx: GetStaticPropsContext) => {
   return {
