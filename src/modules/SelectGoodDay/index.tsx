@@ -296,7 +296,7 @@ export const SelectGoodDay: PageComponent = () => {
                   sx={{ color: (theme) => theme.palette.text.primary }}
                 >
                   <span style={{ color: "orange" }}>► </span>
-                  Tính năng "CHỌN NGÀY TỐT" mới này là kết quả dựa trên quá
+                  Tính năng &quot;CHỌN NGÀY TỐT&quot; mới này là kết quả dựa trên quá
                   trình nghiên cứu, đúc rút từ kiến thức tinh hoa cổ học Phương
                   Đông & cơ sở khoa học cũng như thuật toán đọc quyền từ các
                   chuyên gia Lịch Việt, có sự chi tiết và chính xác cao hơn.
